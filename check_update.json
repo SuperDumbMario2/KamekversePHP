@@ -1,0 +1,18 @@
+{
+  "success": 1,
+  "news": {
+    "unread_count": 0
+  },
+  "admin_message": {
+    "unread_count": 0
+  },
+  "friend_request": {
+    "unread_count": 0
+  },
+  "messages": {
+    "unread_count": 0
+  },
+  "notifications": {
+    "unread_count": 0
+  }
+}
